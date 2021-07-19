@@ -1,0 +1,22 @@
+*{
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  font-family: 'Lato', sans-serif;
+}
+.nav{
+  position: sticky;
+  top: 0;
+  z-index: 1000;
+}
+.Fav{
+  background-color: black;
+  color: white;
+  font-size: 55px;
+  margin-top: 15px;
+  margin-bottom: 15px;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  font-weight: 1000;
+  text-align:center;
+}
